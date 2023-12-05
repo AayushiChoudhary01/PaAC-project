@@ -1,1 +1,1 @@
-# cifar10
+implementing CNN on cifar10 dataset for image classification.
